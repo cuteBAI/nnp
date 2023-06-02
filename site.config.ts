@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'cutebai',
   domain: 'https://www.notion.so/CUTEBAI-662b66d740634bc782db47fa19f52094',
-  author: 'BaiJiaming',
+  author: 'cuteBAI',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
