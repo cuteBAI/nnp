@@ -8,8 +8,8 @@
  */
 
 .notion {
-  --notion-max-width: 720px;
-  --notion-header-height: 54px;
+  --notion-max-width: 1920px;
+  --notion-header-height: 1080px;
 }
 
 .notion-frame {
