@@ -8,8 +8,8 @@
  */
 
 .notion {
-  --notion-max-width: 1920px;
-  --notion-header-height: 1080px;
+  --notion-max-width: 720px;
+  --notion-header-height: 54px;
 }
 
 .notion-frame {
@@ -22,7 +22,7 @@
 }
 
 .index-page {
-  --notion-max-width: 1200px;
+  --notion-max-width: 1600px;
 }
 
 .notion-text {
@@ -44,7 +44,7 @@
 }
 
 .notion-header .notion-nav-header {
-  max-width: 1100px;
+  max-width: 1920px;
   margin: 0 auto;
 }
 
